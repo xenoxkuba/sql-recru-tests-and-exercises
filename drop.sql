@@ -1,0 +1,1 @@
+DROP TABLE users, cities, locations, organizers, tags;
